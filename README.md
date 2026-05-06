@@ -31,3 +31,8 @@ To understand how network reconnaissance works and how attackers identify expose
 
 ## Disclaimer
 This project was done in a controlled local environment for educational purposes only.
+
+## Additional Scans
+
+- fast_scan.txt → Quick scan using Nmap (-F) to identify commonly open ports
+- scan_results.txt → Detailed scan using Nmap (-sV) for service detection
